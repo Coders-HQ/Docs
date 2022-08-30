@@ -1,3 +1,3 @@
-* [CodersHQ](/)
-    - [Who We Are](./codershq/)
-* [Assessment](codershq/README.md)
+* [CodersHQ](codershq/)
+    - [Who We Are](codershq/who_we_are.md)
+* [Assessment](assessment/)
