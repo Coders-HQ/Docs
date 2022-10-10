@@ -1,2 +1,1 @@
-* [CodersHQ](codershq/)
 * [Assessment](assessment/)
