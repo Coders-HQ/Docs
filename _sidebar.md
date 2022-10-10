@@ -1,1 +1,2 @@
 * [Assessment](assessment/)
+* [Ambassadors](ambassadors/)
