@@ -18,26 +18,26 @@ We have our booths at DevSlam where you can come and get assessed for free then 
 
 ### FAQ
 
-_What’s the purpose of this assessment?_
+__What’s the purpose of this assessment?__
 
 To help connect community members at Coders(hq) (you will be a member if you decide to take the assessment) with the job market through our partners who have certain job descriptions they are trying to fill. The skill results will be shared with our partners to help ease with talent filtering based on the assessment results.
 
-_I am done with assessment, what’s the next step?_
+__I am done with assessment, what’s the next step?__
 
 Please have a discussion with our partners to see if your skills match what they are looking for.
 
-_Will the companies contact us once we are done? Is there any email if so?_
+__Will the companies contact us once we are done? Is there any email if so?__
 
 Coders(HQ) will contact all members who have taken the assessment with a link to view the assessment results and, later on, with the page display of their result and profile.
 
-_Can I use my personal laptop to conduct the assessment?_
+__Can I use my personal laptop to conduct the assessment?__
 
 Unfortunately you can only use one of our laptops to take the tests.
 
-_How long is the assessment?_
+__How long is the assessment?__
 
 Depends on the skill. Some take longer while others not, we recommend picking the one you are most comfortable with.
 
-_Is there a timer for the assessment?_
+__Is there a timer for the assessment?__
 
 There is not, we have a que system that is based on the seats occupied.
