@@ -4,9 +4,7 @@
 
 > Everything CHQ in one place.
 
-- Assessment
-- Challenges
-- Ambassadors
+Click learn more to see what we are up to
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Learn More](#CodersHQ)
