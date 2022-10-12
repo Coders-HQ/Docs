@@ -32,12 +32,12 @@ Coders(HQ) will contact all members who have taken the assessment with a link to
 
 __Can I use my personal laptop to conduct the assessment?__
 
-Unfortunately you can only use one of our laptops to take the tests.
+Unfortunately no, you can only use one of our laptops to take the tests.
 
 __How long is the assessment?__
 
-Depends on the skill. Some take longer while others not, we recommend picking the one you are most comfortable with.
+Depends on the skill. Some take longer while others not, we recommend picking the one you are most comfortable with. However, approximately it could take 15-20 minutes.
 
 __Is there a timer for the assessment?__
 
-There is not, we have a que system that is based on the seats occupied.
+There is not, we have a queue system that is based on the seats occupied.
